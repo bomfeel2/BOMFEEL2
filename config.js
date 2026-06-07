@@ -36,7 +36,7 @@ const CONFIG = {
   wedding: {
     date: "2026-08-29",
     time: "18:00",
-    venue: "CN 웨딩홀 계산점 2층 베르테홀",
+    venue: "CN웨딩홀 계산점 2층 베르테홀",
     address: "인천 계양구 경명대로 1108",
     mapLinks: {
       kakao: "https://place.map.kakao.com/248149939",
